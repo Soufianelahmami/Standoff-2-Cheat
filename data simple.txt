@@ -26,10 +26,10 @@
   
 
 
-"banner_network_choice":"yandex", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
-"native_network_choice":"yandex"
+"banner_network_choice":"unity", 
+"interstisial_network_choice":"unity", 
+"reward_network_choice":"unity",
+"native_network_choice":"unity"
   
 
 }
