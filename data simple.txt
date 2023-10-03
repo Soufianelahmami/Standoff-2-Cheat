@@ -19,19 +19,39 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-2307894-1",
-"yandex_inter":"R-M-2307894-3",
-"yandex_native":"R-M-2307894-2",
-"yandex_reward":"R-M-2307894-4",
+"yandex_banner":"R-M-2847967-1",
+"yandex_inter":"R-M-2847967-3",
+"yandex_native":"R-M-2847967-2",
+"yandex_reward":"R-M-2847967-4",
   
+"vungle_appid":"645e64defe20a95ccb12bd7b ",
+"vungle_inter":"INTER-5944534",
+"vungle_banner":"DEFAULTBANNER-5844358",
+"vungle_reward":"",
 
+  
+ "more_apps_info":[
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+   ],
 
+"download_dialog_txt":"download text from server",
 "banner_network_choice":"unity", 
-"interstisial_network_choice":"unity", 
+"interstisial_network_choice":"yandex", 
 "reward_network_choice":"unity",
 "native_network_choice":"unity"
   
 
+},
+  "my_data":[
+  {"desc1":"In Standoff 2, the game's mode menu is a pivotal feature that provides players with a diverse and engaging range of gameplay experiences. This menu serves as the gateway to an array of exciting game modes, each offering a unique twist on the classic first-person shooter (FPS) gameplay.",
+   "photo1":"https://iili.io/Jd6rY9S.webp"},
+  {"desc2":"One of the standout modes is Deathmatch where players engage in a fast-paced battle royale to accumulate the highest number of kills within a set time limit. It's a fantastic way to hone your shooting skills and enjoy intense, action-packed combat.","photo2":"https://iili.io/Jd64Odl.webp"},
+  {"desc3":"For those seeking more tactical and strategic gameplay, Defuse the Bomb mode challenges teams to either plant or defuse a bomb, adding an element of strategy and cooperation to the mix. ","photo3":"https://iili.io/Jd64vm7.webp"},
+  {"desc4":"Capture the Flag mode emphasizes teamwork as players strive to capture the enemy's flag and return it to their base while defending their own flag from being taken.","photo4":"https://iili.io/Jd64L7V.jpg"},
+  {"desc5":"The mode menu in Standoff 2 constantly evolves, introducing new modes and limited-time events to keep the gaming experience fresh and exciting","photo5":"https://iili.io/Jd6627p.jpg"},
+  {"descd":"Whether you're in the mood for casual fun or intense competition, Standoff 2 mode menu offers something for every player, ensuring that boredom is never on the horizon in this thrilling FPS game.","photod":"https://iili.io/Jd66x4f.jpg"}
+   ]
+ 
 }
-}
-   
