@@ -31,9 +31,9 @@
 
   
  "more_apps_info":[
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+  {"name":"app 1","package_name":"com.wbd.stream","icon"https://play-lh.googleusercontent.com/VODqBhdZXQIkQlcv_A2nAq1gPNO7fwfDlUO3UZcgcMy6jAVx05CSU-vFuVFsr9gFUuo=w240-h480-rw"},
+  {"name":"Peacock TV","package_name":"com.peacocktv.peacockandroid","icon":"https://play-lh.googleusercontent.com/tmGaBmInLjXVZIb4lWe5-LXINRP2RiY77Vg_hOLu-rxXBsY9vKC78A_A3Pkyx9vNBE8=s48-rw"},
+  {"name":"sling","package_name":"com.sling","icon":"https://play-lh.googleusercontent.com/paUnk-CcCLS-AvbzZw7xdVGU8hpYqRvn_y7aI3r1WMbsW2oCXezFE15Rf4dQgqr3nYe2=w240-h480-rw"}
    ],
 
 "download_dialog_txt":"download text from server",
